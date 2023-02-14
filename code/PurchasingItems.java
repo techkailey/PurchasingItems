@@ -96,4 +96,4 @@ public class PurchasingItems { //purchasing items for the Kailey Show
 		System.out.printf("Purchased: %d orders of popcorn%n", popcornTotal); // total amount of popcorn purchased 
 		System.out.printf("Purchased: %d drinks%n", drinkTotal); // total amount of drinks purchased
 	} // end main method 
-} // end of class HW2
+} // end of class 
